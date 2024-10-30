@@ -1,0 +1,8 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.wc_payment_methodss .payment_boxss{
+    border: 0;
+}
